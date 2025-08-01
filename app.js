@@ -9,3 +9,5 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
   console.log(`Servidor corriendo en http://localhost:${port}`);
 });
+
+// Este es un cambio de prueba para GitHub Actions
