@@ -25,4 +25,4 @@ jobs:
       - name: Push the Docker image
         run: docker push ${{ secrets.DOCKER_USERNAME }}/docker-hola-mundo
 
-// Commit de prueba para activar workflow
+# Commit de prueba para activar workflow
